@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:4
+#EXT-X-MEDIA-SEQUENCE:221
+#EXTINF:4,
+https://promo.tu/cc/in-221.ts?duration=4
