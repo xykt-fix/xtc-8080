@@ -1,12 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:4
-#EXT-X-MEDIA-SEQUENCE:221
-#EXTINF:4,
-https://promo.tu/cc/pn-221.ts?duration=4
-#EXTINF:4,
-https://promo.tu/cc/pn-222.ts?duration=4
-#EXTINF:4,
-https://promo.tu/cc/pn-223.ts?duration=4
-#EXTINF:4,
-https://promo.tu/cc/pn-224.ts?duration=4
+#EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=4716800,AVERAGE-BANDWIDTH=4540800,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=25.000
+https://helga.iptv2022.com/sh/MNB/tracks-v1a1/mono.ts.m3u8?filter.tracks=a1v1v2v3v4
