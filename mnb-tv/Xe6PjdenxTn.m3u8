@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:4
+#EXT-X-MEDIA-SEQUENCE:221
+#EXTINF:4,
+https://promo.tu/cc/pn-221.ts?duration=4
+#EXTINF:4,
+https://promo.tu/cc/pn-222.ts?duration=4
+#EXTINF:4,
+https://promo.tu/cc/pn-223.ts?duration=4
+#EXTINF:4,
+https://promo.tu/cc/pn-224.ts?duration=4
