@@ -1,0 +1,75 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Mongolian", 1 | MNB TV
+https://xyktmobile00.s.gy/001_MNB_TV?playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="IT", 23 | RAI Q
+https://xyktmobile00.s.gy/TV/023_RAI_Q.php?34.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ID", 38 | Rinj
+https://xyktmobile00.s.gy/038_RINJ_TV?playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Inglés", 40 | CBEEBEES
+https://xyktmobile00.s.gy/040_CBEEBEES?playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Espanol", 41 | BABY
+https://xyktmobile00.s.gy/041_BABY?playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Español", 42 | Canal Zumu
+https://xyktmobile00.s.gy/042_ZOOMOO?playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japonés", 43 | Ani MAX
+https://xyktmobile00.s.gy/043_ANIMAX_ASIA?playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Ninguno", 44 | BABYFIR
+https://xyktmobile00.s.gy/044_BABYFIR?playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Español", 45 | FUN BOX TV
+https://xyktmobile00.s.gy/045_FUNBOX_TV?playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Inglés", 46 | CART NE
+https://xyktmobile00.s.gy/046_CART_NET?playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Inglés", 47 | DISCOVERY KIDS H
+https://xyktmobile00.s.gy/047_DISCOVERY_KIDSH?playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="BG", 48 | Ekids
+https://xyktmobile00.s.gy/048_EKIDS?playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ID", 69 |  GARUDA CANAL
+https://xyktmobile00.s.gy/069_GARUDA_CANAL?playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ID", 70 |  BTVI
+https://xyktmobile00.s.gy/070_BTV_I?playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ID", 71 |  TV1 HD
+https://xyktmobile00.s.gy/071_TV1_HD?playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ID", 72 |  GARM TV
+https://xyktmobile00.s.gy/072_GARM_TV?playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ID", 73 |  YOU
+https://xyktmobile00.s.gy/073_YOU?playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ID", 75 |  TVR
+https://xyktmobile00.s.gy/075_TVR?playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ID", 76 |  TVRW
+https://xyktmobile00.s.gy/076_TVRW?playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ID", 77 |  JTV 
+https://xyktmobile00.s.gy/077_JTV?playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ID", 78 |  WEL
+https://xyktmobile00.s.gy/078_WEL?playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ID", 79 |  OCEAN RUS
+https://xyktmobile00.s.gy/079_OCEAN_RUS?playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ID", 80 |  ASH
+https://xyktmobile00.s.gy/080_ASH?playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ID", 81 |  SUR DE CERO
+https://xyktmobile00.s.gy/081_SUR_DE_CERO?playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ID", 82 |  AHS
+https://xyktmobile00.s.gy/082_AHS?playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ID", 83 |  MITAD
+https://xyktmobile00.s.gy/083_MITAD?playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ID", 84 |  AAN
+https://xyktmobile00.s.gy/084_AAN?playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ID", 85 |  HIJ
+https://xyktmobile00.s.gy/085_HIJ?playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ID", 86 |  ALMUE
+https://xyktmobile00.s.gy/086_ALMUE?playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ID", 87 |  SALA CANAL
+https://xyktmobile00.s.gy/087_SALA_CANAL?playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ID", 88 |  CANAL MEZQUITA
+https://xyktmobile00.s.gy/088_CANAL_MEZQUITA?playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ID", 89 |  SUNNA CANAL
+https://xyktmobile00.s.gy/089_SUNNA_CANAL?playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italiano", 90 |  SUPER
+https://xyktmobile00.s.gy/090_SUPER?playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Español", 91 |  ANTENA3 INT
+https://xyktmobile00.s.gy/091_ANTENA3_INT?playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Español", 92 |  AMC SERIE
+https://xyktmobile00.s.gy/092_AMC_SERIE?playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Español", 93 |  TV Chile
+https://xyktmobile00.s.gy/093_TV_CHILE?playlist.m3u8
+
+#### ---- We will add it soon!/ Lo Anadiremos Pronto! ---- ####
