@@ -1,6 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:4
-#EXT-X-MEDIA-SEQUENCE:221
+#EXT-X-MEDIA-SEQUENCE:21
 #EXTINF:4,
-https://promo.tu/cc/in-221.ts?duration=4
+https://xyktmobile00.s.gy/unknown-21.ts
+#EXTINF:4,
+https://xyktmobile00.s.gy/unknown-22.ts
