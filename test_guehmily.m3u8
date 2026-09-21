@@ -22,4 +22,14 @@ https://cdn4.skygo.mn/live/disk1/NTVHD/HLSv3-FTA/NTVHD-avc1_4000000=3-mp4a_25600
 https://cdn4.skygo.mn/live/disk1/NTVHD/HLSv3-FTA/NTVHD-avc1_4000000=3-mp4a_256000=5-begin=3699111370000000-dur=40000000-seq=92477784.ts
 #EXTINF:4,
 https://cdn4.skygo.mn/live/disk1/NTVHD/HLSv3-FTA/NTVHD-avc1_4000000=3-mp4a_256000=5-begin=3699111410000000-dur=40000000-seq=92477785.ts
+#EXTINF:4,
+https://cdn4.skygo.mn/live/disk1/NTVHD/HLSv3-FTA/NTVHD-avc1_4000000=3-mp4a_256000=5-begin=3699124090000000-dur=40000000-seq=92478103.ts
+#EXTINF:4,
+https://cdn4.skygo.mn/live/disk1/NTVHD/HLSv3-FTA/NTVHD-avc1_4000000=3-mp4a_256000=5-begin=3699124130000000-dur=40000000-seq=92478104.ts
+#EXTINF:4,
+https://cdn4.skygo.mn/live/disk1/NTVHD/HLSv3-FTA/NTVHD-avc1_4000000=3-mp4a_256000=5-begin=3699124170000000-dur=40000000-seq=92478105.ts
+#EXTINF:4,
+https://cdn4.skygo.mn/live/disk1/NTVHD/HLSv3-FTA/NTVHD-avc1_4000000=3-mp4a_256000=5-begin=3699124210000000-dur=40000000-seq=92478106.ts
+#EXTINF:4,
+https://cdn4.skygo.mn/live/disk1/NTVHD/HLSv3-FTA/NTVHD-avc1_4000000=3-mp4a_256000=5-begin=3699124250000000-dur=40000000-seq=92478107.ts
 #EXT-X-ENDLIST
