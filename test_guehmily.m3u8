@@ -1,19 +1,24 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" , Mouse TV
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:4
+#EXT-X-MEDIA-SEQUENCE:92393322
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-PROGRAM-DATE-TIME:2026-09-17T11:14:45.000Z
+#EXTINF:4,
 https://cdn4.skygo.mn/live/disk1/NTVHD/HLSv3-FTA/NTVHD-avc1_4000000=3-mp4a_256000=5-begin=3699111110000000-dur=40000000-seq=92477777.ts
-#EXTINF:-1 tvg-id="" tvg-name="" , Mouse TV 24n
+#EXTINF:4,
 https://cdn4.skygo.mn/live/disk1/NTVHD/HLSv3-FTA/NTVHD-avc1_4000000=3-mp4a_256000=5-begin=3699111150000000-dur=40000000-seq=92477778.ts
-#EXTINF:-1 tvg-id="" tvg-name="" , Mouse TV 2
+#EXTINF:4,
 https://cdn4.skygo.mn/live/disk1/NTVHD/HLSv3-FTA/NTVHD-avc1_4000000=3-mp4a_256000=5-begin=3699111190000000-dur=40000000-seq=92477779.ts
-#EXTINF:-1 tvg-id="" tvg-name="" , Mouse TV 3
+#EXTINF:4,
 https://cdn4.skygo.mn/live/disk1/NTVHD/HLSv3-FTA/NTVHD-avc1_4000000=3-mp4a_256000=5-begin=3699111230000000-dur=40000000-seq=92477780.ts
-#EXTINF:-1 tvg-id="" tvg-name="" , Mouse TV 4
+#EXTINF:4,
 https://cdn4.skygo.mn/live/disk1/NTVHD/HLSv3-FTA/NTVHD-avc1_4000000=3-mp4a_256000=5-begin=3699111270000000-dur=40000000-seq=92477781.ts
-#EXTINF:-1 tvg-id="" tvg-name="" , Bunny TV 
+#EXTINF:4,
 https://cdn4.skygo.mn/live/disk1/NTVHD/HLSv3-FTA/NTVHD-avc1_4000000=3-mp4a_256000=5-begin=3699111310000000-dur=40000000-seq=92477782.ts
-#EXTINF:-1 tvg-id="" tvg-name="" , Bunny TV 2
+#EXTINF:4,
 https://cdn4.skygo.mn/live/disk1/NTVHD/HLSv3-FTA/NTVHD-avc1_4000000=3-mp4a_256000=5-begin=3699111340000000-dur=40000000-seq=92477783.ts
-#EXTINF:-1 tvg-id="" tvg-name="" , hUZ tv
+#EXTINF:4,
 https://cdn4.skygo.mn/live/disk1/NTVHD/HLSv3-FTA/NTVHD-avc1_4000000=3-mp4a_256000=5-begin=3699111370000000-dur=40000000-seq=92477784.ts
-#EXTINF:-1 tvg-id="" tvg-name="" , hUZ tv 2
+#EXTINF:4,
 https://cdn4.skygo.mn/live/disk1/NTVHD/HLSv3-FTA/NTVHD-avc1_4000000=3-mp4a_256000=5-begin=3699111410000000-dur=40000000-seq=92477785.ts
