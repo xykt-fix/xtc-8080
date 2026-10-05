@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SCorbyTV.us" tvg-logo="x" group-title="Children/Infantil", S Corby
+https://xykt-fix.github.io/mediaavc/acir.m3u
+#EXTINF:-1 tvg-id="SCorbyTV2.us" tvg-logo="x" group-title="Children/Infantil", S Corby 2
+https://xykt-fix.github.io/mediaavc/tick_976-34/proxlive.m3u
